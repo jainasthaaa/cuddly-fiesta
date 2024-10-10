@@ -1,4 +1,4 @@
-## Project 1: Sentiment Analysis API with LLM Integration
+## Project 2: Sentiment Analysis API with LLM Integration
 # Overview
 This project is a Sentiment Analysis API integrated with a Large Language Model (LLM). The API analyzes input text (such as product reviews or social media posts) and classifies them as Positive, Negative, or Neutral sentiments.
 
@@ -12,3 +12,21 @@ Python
 Pandas (for data handling)
 
 Scikit-learn (for basic machine learning models)
+
+## Project 3: Castle Swimmer Knowledge-Based Chatbot
+## Overview
+This project is a simple knowledge-based chatbot designed to answer questions about the Castle Swimmer webtoon. It uses NLTK for text processing and responds to specific questions about the webtoon's plot, characters, and themes.
+
+# Features
+Knowledge Base: Predefined information about Castle Swimmer, including characters, plot, and themes.
+
+Streamlit Integration: A simple web interface using Streamlit to interact with the chatbot.
+
+Text Processing: Uses NLTK for tokenizing and understanding user input.
+
+## Technologies Used
+Python
+
+NLTK (Natural Language Toolkit)
+
+Streamlit (for UI)
