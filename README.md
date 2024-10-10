@@ -1,7 +1,14 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+## Project 1: Sentiment Analysis API with LLM Integration
+# Overview
+This project is a Sentiment Analysis API integrated with a Large Language Model (LLM). The API analyzes input text (such as product reviews or social media posts) and classifies them as Positive, Negative, or Neutral sentiments.
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+##Features
+Sentiment Classification: The API takes user input text and determines its sentiment.
+LLM Integration: Utilizes an LLM for natural language understanding and enhanced sentiment accuracy.
+Simple REST API: Easy-to-use endpoints for sending text data and receiving sentiment analysis.
+## Technologies Used
+Python
+Flask (or FastAPI)
+Large Language Models (e.g., OpenAI GPT)
+Pandas (for data handling)
+Scikit-learn (for basic machine learning models)
